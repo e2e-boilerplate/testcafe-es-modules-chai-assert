@@ -1,4 +1,4 @@
-name: testcafe-es-modules
+name: testcafe-es-modules-chai-assert
 'on':
   push: null
   schedule:
