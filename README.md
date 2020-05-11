@@ -2,7 +2,7 @@
     
 # TestCafé Boilerplate
     
-TestCafé end-to-end test automation boilerplate, Using [ES Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/), [Chai](https://www.chaijs.com) and Assert.
+TestCafé end-to-end test automation boilerplate, Using [ES Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/), [Chai](https://www.chaijs.com) and [Commonjs](https://www.chaijs.com/api/assert/).
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/testcafe-es-modules-chai-assert.git
